@@ -1,0 +1,120 @@
+BODY {
+	scrollbar-face-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-3dlight-color: #6e6e6e;
+	scrollbar-arrow-color:  #6e6e6e;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-darkshadow-color: #6e6e6e;
+    color: #000000;
+    margin: 0px;
+}
+
+.f012 {
+	font-size: 12px;
+	line-height: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: normal;
+}
+.f012-subject {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #0066FF;
+}
+
+
+A.blue3:link { color: #0056a3; text-decoration:none}
+A.blue3:visited {color:#0056a3; text-decoration:none}
+A.blue3:hover { color: #0056a3; text-decoration:none}
+
+
+A.red:link { color: #cc0000; text-decoration:none}
+A.red:visited {color:#cc0000; text-decoration:none}
+A.red:hover { color: #cc0000; text-decoration:none}
+
+
+A.red2:link { color: #cc0000; text-decoration:underline}
+A.red2:visited {color:#cc0000; text-decoration:underline}
+A.red2:hover { color: #cc0000; text-decoration:underline}
+
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+
+a:visited {
+	text-decoration: underline;
+	color: #666666;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #ff6511;
+}
+
+a.board:link {
+	text-decoration: none;
+	color: #ff6511;
+}
+
+a.board:visited {
+	text-decoration: none
+	color: #ff6511;
+}
+
+a.board:hover {
+	text-decoration: none;
+	color: #ff6511;
+}
+
+
+.f012-menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 24px;
+	color: #ff6511;
+}
+.f012-nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-variant: normal;
+	color: #bcbcbc;
+}
+
+a:active {
+	text-decoration: none;
+	color: #5a99b4;
+}
+.f012-content {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 24px;
+	font-variant: normal;
+	color: #333333;
+}
+.table {
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+	color: #6e6e6e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.foot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+}
+
+.mixfont9x { font-size: 9pt; line-height: 16pt; text-align: justify; font-family: Verdana,Arial,Helvetica,新細明體,細明體; }
+.mixfont9x2 { font-size: 9pt; line-height: 13pt; text-align: justify; font-family: Verdana,Arial,Helvetica,新細明體,細明體; }
+.mixfont10x { font-size: 10pt; line-height: 18pt; text-align: justify; font-family: Verdana,Arial,Helvetica,新細明體,細明體; }
+.mixfont11x { font-size: 11pt; line-height: 20pt; text-align: justify; font-family: Verdana,Arial,Helvetica,新細明體,細明體; }
+
+.mixtextbox_r { font-size:9pt;border-left:1px solid #666666;border-right:1px solid #666666;border-top:1px solid #666666;color:rgb(0,0,0);border-bottom:1px solid #666666;font-family:Verdana,Arial,新細明體,細明體; background-color:#ffeeee; }
+
+

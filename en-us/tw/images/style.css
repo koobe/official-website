@@ -1,0 +1,78 @@
+BODY {
+	scrollbar-face-color: #FFFFFF;
+	scrollbar-highlight-color: #FFFFFF;
+	scrollbar-shadow-color: #FFFFFF;
+	scrollbar-3dlight-color: #6e6e6e;
+	scrollbar-arrow-color:  #6e6e6e;
+	scrollbar-track-color: #FFFFFF;
+	scrollbar-darkshadow-color: #6e6e6e;
+    color: #000000;
+    margin: 0px;
+}
+
+.f012 {
+	font-size: 12px;
+	line-height: 19px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-variant: normal;
+}
+.f012-subject {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #0066FF;
+}
+
+a:link {
+	text-decoration: none;
+	color: #666666;
+}
+a:visited {
+	text-decoration: underline;
+	color: #666666;
+}
+a:hover {
+	text-decoration: none;
+	color: #ff6511;
+}
+.f012-menu {
+	font-size: 13px;
+	line-height: 24px;
+	color: #ff6511;
+	font-weight: normal;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.f012-nav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-variant: normal;
+	color: #bcbcbc;
+}
+
+a:active {
+	text-decoration: none;
+	color: #5a99b4;
+}
+.f012-content {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	line-height: 24px;
+	font-variant: normal;
+	color: #8f8f8f;
+}
+.table {
+	background-color: #FFFFFF;
+	border: 1px solid #999999;
+	color: #6e6e6e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+}
+
+.foot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 20px;
+}

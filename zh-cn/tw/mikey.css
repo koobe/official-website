@@ -1,0 +1,41 @@
+/*CSS by Mikey*/
+a img, a:hover img {border:none}
+#article {width:950px !important;margin:0 auto;padding:0}
+#article blockquote {margin:0;padding:15px 30px;border-top:#c2e183 5px solid;background:#e9f2d7}
+#article blockquote p {color:#333;font:13px sans-serif;font-weight:400;line-height:180%;letter-spacing:1px}
+
+.article-tab {clear:both;width:950px;height:60px;display:block;margin-top:1px;padding:0;background:#8ac535}
+.article-tab ul {margin:0 30px;padding:0}
+.article-tab li {float:left;list-style:none;margin-top:25px}
+.article-tab li a {color:#fff;font:13px sans-serif;line-height:35px;height:35px;display:block;margin-right:30px;padding:0 30px;background:#629513}
+.article-tab li a:hover {color:#629513;background:#b1db72}
+.article-tab li a.selected, .article-tab li a.selected:hover {cursor:default;color:#8ac535;font-weight:600;background:#fff}
+/*.article-tab li.ebook a.selected, .article-tab li.ebook a.selected:hover, .article-tab li.ebook a:hover {background:#ea2d2e}
+.article-tab li.publisher a.selected, .article-tab li.publisher a.selected:hover, .article-tab li.publisher a:hover {background:#00aa4f}
+.article-tab li.brand a.selected, .article-tab li.brand a.selected:hover, .article-tab li.brand a:hover {background:#333b97}
+.article-tab li.company a.selected, .article-tab li.company a.selected:hover, .article-tab li.company a:hover {background:#00b7f1}
+.article-tab li.others a.selected, .article-tab li.others a.selected:hover, .article-tab li.others a:hover {background:#8cc63f}*/
+
+.article-box {clear:both;width:900px;margin:0 auto;padding:10px 25px 0;position:relative}
+.article-content {clear:both;margin:0 15px 30px}
+.article-content p, .article-content li {color:#111;font:12px sans-serif;font-weight:400;line-height:170%;letter-spacing:1px}
+.article-box table th {color:#777;font:12px sans-serif;font-weight:400;text-align:left !important;letter-spacing:1px;padding:5px 15px;border-bottom:#e5e5e5 1px solid;background:#e5e5e5}
+.article-box table td {padding:15px}
+.article-box table.odd td {padding:25px;border-bottom:#eee 1px solid}
+.article-box table td img {width:100px;height:59px}
+.article-box table td, .article-box table td a {color:#fff;font:12px sans-serif;font-weight:400;text-align:center}
+.article-box table td a:hover {color:#aaa}
+.article-box table td.odd {color:#666;text-align:left;line-height:170%}
+
+.all-client td {color:#444 !important;font:12px sans-serif;font-weight:400;text-align:left !important;letter-spacing:1px;padding:15px;border-bottom:#e5e5e5 1px solid;background:#fff}
+.all-client td.odd {background:#f7f7f7}
+.all-logo td {text-align:center !important;letter-spacing:1px;padding:15px 40px !important;border-bottom:#e5e5e5 1px solid;background:#fff}
+.all-3c td.odd {letter-spacing:1px;text-align:left !important;border-right:#e5e5e5 1px solid}
+
+.top {float:right;clear:both;width:900px;height:24px;display:block;margin:10px 0;padding:0}
+
+.hidden-article {color:#333;font:12px sans-serif;font-weight:400;line-height:170%;letter-spacing:1px;margin:15px}
+.hidden-article ol, .hidden-article ul {margin:15px 20px;padding:0}
+.hidden-article li {margin-bottom:15px}
+.hidden-title {background:#eee}
+.hidden-title p {color:#fff;font:13px sans-serif;font-weight:600;width:200px;padding:5px 15px;background:#80b232}
